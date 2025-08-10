@@ -200,7 +200,7 @@ export default function Page() {
 
         {!winner && (
           <p className="mt-6 text-xs text-neutral-500">
-            Tip: You can't draw here—pieces cycle off. Try to force your opponent to
+            Tip: You cannot draw here—pieces cycle off. Try to force your opponent to
             break their alignment while you set up yours.
           </p>
         )}
